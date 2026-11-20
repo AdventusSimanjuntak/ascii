@@ -3,10 +3,6 @@
 Pohon Natal yang tumbuh sendiri di layar — dirender huruf demi huruf, dengan lampu,
 bauble, kado, salju, dan pesan yang diketik di bawahnya.
 
-Proyek ini adalah rekreasi bergaya [rose_bouquet.py](rose_bouquet.py): pohon dibangun dari
-ribuan titik 3D, diproyeksikan ke grid karakter, lalu diwarnai dan digerakkan seperti animasi
-ASCII pada umumnya.
-
 ![Pratinjau animasi](preview.gif)
 
 ![Tangkapan layar akhir animasi](preview.png)
